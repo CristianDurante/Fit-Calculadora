@@ -66,7 +66,7 @@ document.getElementById("form-calculadora").addEventListener('submit', function 
         }
     })
 
-    // Função para gerar o plano de treino 
+    // Funçao para gerar o plano de treino 
     function geradorDeTreino(objetivo){
         let plano = ''
 
